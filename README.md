@@ -39,3 +39,12 @@ Write Docker-Compose YAML file to deploy Nginx, Tomcat, MySQL application  conta
 -Login to Tomcat container and check the MySQL access using “mysql” client cli.
 
 -Verify application is accessible using public internet browser.
+
+
+
+![image](https://github.com/AlaaiDwidar/Dockerize-Java-app/assets/99266660/40ac3986-c378-4a1a-9dc8-13721c763f3a)
+
+
+![image](https://github.com/AlaaiDwidar/Dockerize-Java-app/assets/99266660/d04f2e3c-d9ca-4001-a5dd-0fdeb162667e)
+
+
